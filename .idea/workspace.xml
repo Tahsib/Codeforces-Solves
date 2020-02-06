@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65382e0d-c9cb-4a48-939a-bc213c4937cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1VA8BtbXTtbtDpXsQ0IVLrsCDe3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+    <property name="last_opened_file_path" value="$USER_HOME$/CLionProjects" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65382e0d-c9cb-4a48-939a-bc213c4937cb" name="Default Changelist" comment="" />
+      <created>1576684409085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576684409085</updated>
+      <workItem from="1576684416584" duration="36000" />
+      <workItem from="1577203345594" duration="291000" />
+      <workItem from="1578030855151" duration="1063000" />
+      <workItem from="1578150199177" duration="68000" />
+      <workItem from="1578150337951" duration="120000" />
+      <workItem from="1578150483643" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="196" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578150454365">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="196" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1366.712@0.28.1366.712" timestamp="1578150454365" />
+    <state x="475" y="145" width="517" height="471" key="EnvironmentVariablesDialog" timestamp="1578150371285">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="475" y="145" width="517" height="471" key="EnvironmentVariablesDialog/0.28.1366.712@0.28.1366.712" timestamp="1578150371285" />
+    <state x="466" y="143" width="426" height="483" key="FileChooserDialogImpl" timestamp="1578150551678">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="466" y="143" width="426" height="483" key="FileChooserDialogImpl/0.28.1366.712@0.28.1366.712" timestamp="1578150551678" />
+    <state x="172" y="28" key="SettingsEditor" timestamp="1578150249795">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="172" y="28" key="SettingsEditor/0.28.1366.712@0.28.1366.712" timestamp="1578150249795" />
+    <state x="339" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1576684419306">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="339" y="211" key="com.intellij.ide.util.TipDialog/0.28.1366.712@0.28.1366.712" timestamp="1576684419306" />
+  </component>
+</project>
